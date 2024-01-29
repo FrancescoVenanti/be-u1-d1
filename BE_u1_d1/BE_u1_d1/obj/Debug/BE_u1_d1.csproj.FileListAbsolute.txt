@@ -1,0 +1,7 @@
+E:\backend\BE_u1_d1\BE_u1_d1\bin\Debug\BE_u1_d1.exe.config
+E:\backend\BE_u1_d1\BE_u1_d1\bin\Debug\BE_u1_d1.exe
+E:\backend\BE_u1_d1\BE_u1_d1\bin\Debug\BE_u1_d1.pdb
+E:\backend\BE_u1_d1\BE_u1_d1\obj\Debug\BE_u1_d1.csproj.AssemblyReference.cache
+E:\backend\BE_u1_d1\BE_u1_d1\obj\Debug\BE_u1_d1.csproj.CoreCompileInputs.cache
+E:\backend\BE_u1_d1\BE_u1_d1\obj\Debug\BE_u1_d1.exe
+E:\backend\BE_u1_d1\BE_u1_d1\obj\Debug\BE_u1_d1.pdb
